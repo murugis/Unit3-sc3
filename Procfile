@@ -1,0 +1,1 @@
+web: gunicorn aq_dashboard.py -t 120
